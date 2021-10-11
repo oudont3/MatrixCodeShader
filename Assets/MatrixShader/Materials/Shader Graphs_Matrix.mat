@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Shader Graphs_Matrix
-  m_Shader: {fileID: -6465566751694194690, guid: e595d4832098cfe49a892e0bb090c9fc,
+  m_Shader: {fileID: -6465566751694194690, guid: 4ae277000c327454c81251c315a8199c,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -28,12 +28,12 @@ Material:
     - _EmitScale: 0.084
     - _Gradient: 4.49
     - _GradientScale: 0.49
-    - _RemovePer: 0
-    - _Speed: 15
-    - _SwitchSpeed: 0.3
+    - _RemovePer: 0.68
+    - _Speed: 0.5
+    - _SwitchSpeed: 0.311
     - _UnitSpeed: 2
     m_Colors:
     - _CodeMatrix: {r: 8, g: 8, b: 0, a: 0}
     - _ColorBase: {r: 0.25882354, g: 0.5411765, b: 0.27339175, a: 1}
-    - _EmitColor: {r: 0.7928047, g: 0.89073944, b: 0.70419717, a: 1}
-    - _ShowCodeMatrix: {r: 1, g: 50, b: 0, a: 0}
+    - _EmitColor: {r: 1.2006853, g: 1.3492849, b: 1.0699176, a: 1}
+    - _ShowCodeMatrix: {r: 40, g: 50, b: 0, a: 0}
